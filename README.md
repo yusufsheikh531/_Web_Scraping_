@@ -105,6 +105,6 @@ Modern media can create outstanding value or an existential threat to your busin
  <li>Political Campaigns</li>
  </ul>
  <br>
- eg.
+  <img src="https://miro.medium.com/max/600/1*m5C1TayBDpPacCRerVIw0Q.gif" alt="Girl in a jacket" width="1000" height="500">
 
  

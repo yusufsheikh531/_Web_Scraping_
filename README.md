@@ -1,6 +1,6 @@
 # Web Scraping
-* What is Web scraping?
-*	The basics of web scraping
+* [what is web scraping](https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)
+* The basics of web scraping
 * Can you scrape from all the websites?
 * Techniques of Web Scraping:
 * How do we do web scraping?

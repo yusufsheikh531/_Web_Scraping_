@@ -1,4 +1,8 @@
 # Web Scraping
+<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
+<details>
+<summary>Click to expand</summary>
+	
 *  [What is Web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)                                                         
 *  [The basics of web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#the-basics-of-web-scraping)  
 *  [Can you scrape from all the websites?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#can-you-scrape-from-all-the-websites) 
@@ -8,7 +12,10 @@
 *  [Different tools and library for web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#different-tools-and-library-for-web-scraping)
 *  [Challenges to Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#challenges-to-web-scraping)
 *  [Future of  Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#future-of-web-scraping)
-*  [Bibliography]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#bibliography)                                                                                                                 
+*  [Bibliography]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#bibliography) 
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
+
 ## What is Web scraping?
 Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet.
 *	poorly structured data from websites into a structured format eg. spreedsheet

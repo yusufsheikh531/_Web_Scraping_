@@ -21,11 +21,11 @@ Web scraping refers to the extraction of data from a website. This information i
 It have 2  parts-The crawler (like a horse) ,The scraper (like a charoit)<br>
 The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
 	
-   #### The crawler (like a horse) 
+   #### The crawler
    Also called “spider”                                                                                                                           
    is an artificial intelligence that browses the internet to index and search for content by following links and exploring.
    
-   #### The scraper (like a charoit)
+   #### The scraper
    A web scraper is a specialized tool designed to accurately and quickly extract data from a web page.
 
 

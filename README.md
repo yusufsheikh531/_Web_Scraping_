@@ -74,7 +74,7 @@ There are 2 different approaches for web scraping depending on how does website 
 >**Approach 1:** *If website stores all their information on the HTML front end, you can directly use code to download the HTML contents and extract out useful information.*<br>
 
     Steps:
-    1. Inspect the website HTML that you want to crawl.
+    1.  Inspect the website HTML that you want to crawl.
     2.	Access url of the website using code and download all the HTML contents on the page.
     3.	Format the downloaded content into readable format.
     4.	Extract out useful information and save into a structured format.

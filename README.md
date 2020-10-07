@@ -1,8 +1,9 @@
-# WEB SCRAPING
+
+<img src="https://scontent.fslv1-2.fna.fbcdn.net/v/t1.0-9/120830800_795875101206008_6566579393005725982_n.jpg?_nc_cat=111&_nc_sid=730e14&_nc_ohc=96NGCctGOWsAX9sps1_&_nc_ht=scontent.fslv1-2.fna&oh=b7ab157cc52372f811c8fe12784e0d17&oe=5FA4B644" alt="sturtured data" width="1000" height="250">
 
 # Content
----
-*  [What is Web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)                                                         
+---   
+*  [What is Web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)                
 *  [The basics of web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#the-basics-of-web-scraping)  
 *  [Can you scrape from all the websites?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#can-you-scrape-from-all-the-websites) 
 *  [Techniques of Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#techniques-of-web-scraping) 
@@ -16,8 +17,8 @@
 
 ## What is Web scraping?
 ---
-Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet.
-*	poorly structured data from websites into a structured format eg. spreedsheet
+Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet. <img align="right" src="https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg" alt="sturtured data" width="500" height="150">
+*	poorly structured data from websites --> into a structured format eg. spreedsheet      
 *	 help you track changes to data online.
 *	There are many languages used for web scraping example node.js, c, c++, php etc.<br>
     But Python is the best language because it is the easiest language to learn because of its syntax.

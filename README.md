@@ -42,7 +42,10 @@ The crawler leads the scraper, as if by the hand, through the internet, where it
 Scraping makes the website traffic to spike and may cause breakdown of the website server. Thus, not all of the websites allow people to scrape.
 How do you know which websites are allowed or not?
 just simply put robots.txt after the url that you want to scrape.<br>
+
 Take Google.com for an example:
+
+'![robots.txt](https://miro.medium.com/max/700/1*pe7HHTIwhbqJJcEfsYcfaA.png)'
  
 You can see that<br>
 *	Google does not allow web scraping for many of its sub-websites. However, it allows certain path like ‘/m/finance’ and thus if you want to collect information on finance then this is a completely legal place to scrape.
@@ -63,7 +66,8 @@ You can see that<br>
 
 ## How do we do web scraping?
 There are 2 different approaches for web scraping depending on how does website structure their contents.<br> 
-**Approach 1:** If website stores all their information on the HTML front end, you can directly use code to download the HTML contents and extract out useful information.<br>
+
+>**Approach 1:** *If website stores all their information on the HTML front end, you can directly use code to download the HTML contents and extract out useful information.*<br>
 
     Steps:
     1. Inspect the website HTML that you want to crawl.
@@ -74,7 +78,7 @@ There are 2 different approaches for web scraping depending on how does website 
 
  **Pros and Cons for this approach:** It is simple and direct. However, if website front end structure changes then you need to adjust your code accordingly.<br>
  
-**Approach 2:** If website stores data in API and the website queries the API each time when user visit the website, you can simulate the request and directly query data from the API.<br>
+ >**Approach 2:** *If website stores data in API and the website queries the API each time when user visit the website, you can simulate the request and directly query data from >the API.*<br>
 
     Steps:
     1.	Inspect 'XHR' network section of the URL that you want to crawl.
@@ -83,12 +87,12 @@ There are 2 different approaches for web scraping depending on how does website 
     4.	Extract out useful information that you need.
     5.	For API with limit on query size, you will need to use ‘for loop’ to repeatedly retrieve all the data.
 
- **Pros and Cons for this approach:** It is definitely a preferred approach if you can find the API request. The data you receive will be more structured and stable. This is . > because compared to website front end, it is less likely for the company to change its backend API. However, it is a bit more complicated than the first approach especially if > authentication or token is required.
+ **Pros and Cons for this approach:** It is definitely a preferred approach if you can find the API request. The data you receive will be more structured and stable. This is    because compared to website front end, it is less likely for the company to change its backend API. However, it is a bit more complicated than the first approach especially if  authentication or token is required.
 
 
 ## Different tools and library for web scraping
-#### Tool for Web Scraping: 
----
+<ins> **Tool for Web Scraping:** </ins> 
+
 Web Scraping tools are specifically developed for extracting data from the internet. Some of the most popular Web Scraping tools are:
 *	[Import.io](https://www.import.io/)
 *	[Webhose.io](https://webhose.io/)
@@ -96,8 +100,8 @@ Web Scraping tools are specifically developed for extracting data from the inter
 )*	[Scrapinghub](https://www.scrapinghub.com/)
 *	[Parsehub](https://www.parsehub.com/)
 
-The most commonly used library for web scraping in Python are :<br>
----
+<ins>**The most commonly used library for web scraping in Python are :**</ins><br>
+
  **Beautiful Soup:** It helps you parse the HTML or XML documents into the readable format. It allows you to search different elements within the documents and help you retrieve required information faster.<br>
 **Requests:** It is a Python module which you can send HTTP requests to retrieve contents. It helps you to access website HTML contents or API by sending Get or Post requests.<br>
 **Selenium:** It is widely used for website testing and it allows you to automate different events(clicking, scrolling etc) on the website to get the results you want.
@@ -108,48 +112,84 @@ You can either use Requests + Beautiful Soup or Selenium to do web scraping. Sel
 
   #### Price Monitoring
 Revolutionize day-to-day business with web scraped product data and dramatically increase your company’s competitiveness. From automatic pricing solutions to profitable investment insights, this data moves mountains.
+<!--⛔️ magic start -->
+<details>
+<summary>Click to expand</summary>
+	
 *	Dynamic Pricing and Revenue Optimization
 *	Competitor Monitoring
 *	Product Trend Monitoring
 *	Investment Decision Making
 *	Brand and MAP Compliance
+        </details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
   #### Alternative Data For Finance
 Unearth alpha and radically create value with web data tailored specifically for investors. The decision-making process has never been as informed, nor data as insightful – and the world’s leading firms are increasingly consuming web scraped data, given its incredible strategic value.
+<!--⛔️ magic start -->
+<details>
+<summary>Click to expand</summary>
+	
 *	Extracting Insights from SEC Filings
 *	Estimating Company Fundamentals
 *	Public Sentiment Integrations
 *	News Monitoring
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
   #### Market Research
 Market research is critical – and should be driven by the most accurate information available. High quality, high volume, and highly insightful, web scraped data of every shape and size is fueling market analysis and business intelligence across the globe.
+<!--⛔️ magic start -->
+<details>
+<summary>Click to expand</summary>
+	
 *	Market Trend Analysis
 *	Market Pricing
 *	Optimizing Point of Entry
 *	Research & Development
 *	Competitor Monitoring
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
   #### Real Estate
 The digital transformation of real estate in the past twenty years threatens to disrupt traditional firms and create powerful new players in the industry. By incorporating web scraped product data into everyday business, agents and brokerages can protect against top-down online competition and make informed decisions within the market.
+<!--⛔️ magic start -->
+<details>
+<summary>Click to expand</summary>
+	
 *	Appraising Property Value
 *	Monitoring Vacancy Rates
 *	Estimating Rental Yields
 *	Understanding Market Direction
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
   #### Sentiment Analysis
 For businesses that want to understand what their clientele – and competition – truly think and feel, web scraped product data and sentiment analysis are a match made in heaven. Guess no more and eradicate bias from your interpretations by incorporating and integrating bewildering amounts of relevant, insightful data from your industry.
+<!--⛔️ magic start -->
+<details>
+<summary>Click to expand</summary>
+	
 *	Investment Decision Making
 *	Product Monitoring
 *	Brand and Company Monitoring
 *	Product Development
 *	Politics and Campaigns
+ </details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
   #### News & Content Monitoring
 Modern media can create outstanding value or an existential threat to your business - in a single news cycle. If you’re a company that depends on timely news analyses, or a company that frequently appears in the news, web scraping is the ultimate solution for monitoring, aggregating and parsing the most critical stories from your industry.
+<!--⛔️ magic start -->
+<details>
+<summary>Click to expand</summary>
+	
 *	Investment Decision Making
 *	Online Public Sentiment Analysis
 *	Competitor Monitoring
 *	 Political Campaigns
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
 
 ## Challenges to Web Scraping: 

@@ -1,6 +1,7 @@
 # WEB SCRAPING
 
-# Content	
+# Content
+---
 *  [What is Web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)                                                         
 *  [The basics of web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#the-basics-of-web-scraping)  
 *  [Can you scrape from all the websites?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#can-you-scrape-from-all-the-websites) 
@@ -48,15 +49,15 @@ Take Google.com for an example:
  
 You can see that<br>
 *	Google does not allow web scraping for many of its sub-websites. However, it allows certain path like ‘/m/finance’ and thus if you want to collect information on finance then this is a completely legal place to scrape.
-*	On first row Google specifies the rules for all of the user-agents but website may give certain user-agent special permission so you may want to refer to information there.222
+*	On first row Google specifies the rules for all of the user-agents but website may give certain user-agent special permission so you may want to refer to information there.
 
 
 ## Techniques of Web Scraping:
 ---
- There are two ways of extracting data from websites, the Manual extraction technique, and the automated extraction technique.
-<h4>1. Manual Extraction Techniques:</h4>  Manually copy-pasting the site content comes under this technique. Though tedious, time taking and repetitive it is an effective way to scrap data from the sites having good anti-scraping measures like bot detection.
+ There are two ways of extracting data from websites, the Manual extraction technique, and the automated extraction technique.<br>
+`1. Manual Extraction Techniques:`  Manually copy-pasting the site content comes under this technique. Though tedious, time taking and repetitive it is an effective way to scrap data from the sites having good anti-scraping measures like bot detection.
 
-<h4> 2. Extraction Techniques: </h4>  web scraping software is used to automatically extract data from sites based on user requirement.
+` 2. Extraction Techniques:`  web scraping software is used to automatically extract data from sites based on user requirement.
 
 * **HTML Parsing:** Parsing means to make something understandable to be analyzing it part by part. To wit, it means to convert the information in one form to another form that is     easy to that is easier to work on with. HTML parsing means taking in the code and extracting relevant information from it based on the user requirement. Mainly executed using   JavaScript, the target as the name suggests are HTML pages.
 
@@ -112,11 +113,11 @@ You can either use Requests + Beautiful Soup or Selenium to do web scraping. Sel
 
 ## Uses of Web Scraping
 ---
-  #### Price Monitoring
+  ### Price Monitoring
 Revolutionize day-to-day business with web scraped product data and dramatically increase your company’s competitiveness. From automatic pricing solutions to profitable investment insights, this data moves mountains.
 <!--⛔️ magic start -->
 <details>
-<summary>Click to expand</summary>
+<summary>EXAMPLES (click HERE to expand)</summary>
 	
 *	Dynamic Pricing and Revenue Optimization
 *	Competitor Monitoring
@@ -126,11 +127,11 @@ Revolutionize day-to-day business with web scraped product data and dramatically
         </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
-  #### Alternative Data For Finance
+  ### Alternative Data For Finance
 Unearth alpha and radically create value with web data tailored specifically for investors. The decision-making process has never been as informed, nor data as insightful – and the world’s leading firms are increasingly consuming web scraped data, given its incredible strategic value.
 <!--⛔️ magic start -->
 <details>
-<summary>Click to expand</summary>
+<summary>EXAMPLES (click HERE to expand)</summary>
 	
 *	Extracting Insights from SEC Filings
 *	Estimating Company Fundamentals
@@ -139,11 +140,11 @@ Unearth alpha and radically create value with web data tailored specifically for
 </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
-  #### Market Research
+  ### Market Research
 Market research is critical – and should be driven by the most accurate information available. High quality, high volume, and highly insightful, web scraped data of every shape and size is fueling market analysis and business intelligence across the globe.
 <!--⛔️ magic start -->
 <details>
-<summary>Click to expand</summary>
+<summary>EXAMPLES (click HERE to expand)</summary>
 	
 *	Market Trend Analysis
 *	Market Pricing
@@ -153,11 +154,11 @@ Market research is critical – and should be driven by the most accurate inform
 </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
-  #### Real Estate
+  ### Real Estate
 The digital transformation of real estate in the past twenty years threatens to disrupt traditional firms and create powerful new players in the industry. By incorporating web scraped product data into everyday business, agents and brokerages can protect against top-down online competition and make informed decisions within the market.
 <!--⛔️ magic start -->
 <details>
-<summary>Click to expand</summary>
+<summary>EXAMPLES (click HERE to expand)</summary>
 	
 *	Appraising Property Value
 *	Monitoring Vacancy Rates
@@ -166,11 +167,11 @@ The digital transformation of real estate in the past twenty years threatens to 
 </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
-  #### Sentiment Analysis
+  ### Sentiment Analysis
 For businesses that want to understand what their clientele – and competition – truly think and feel, web scraped product data and sentiment analysis are a match made in heaven. Guess no more and eradicate bias from your interpretations by incorporating and integrating bewildering amounts of relevant, insightful data from your industry.
 <!--⛔️ magic start -->
 <details>
-<summary>Click to expand</summary>
+<summary>EXAMPLES (click HERE to expand)</summary>
 	
 *	Investment Decision Making
 *	Product Monitoring
@@ -180,28 +181,29 @@ For businesses that want to understand what their clientele – and competition 
  </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
-  #### News & Content Monitoring
+  ### News & Content Monitoring
 Modern media can create outstanding value or an existential threat to your business - in a single news cycle. If you’re a company that depends on timely news analyses, or a company that frequently appears in the news, web scraping is the ultimate solution for monitoring, aggregating and parsing the most critical stories from your industry.
 <!--⛔️ magic start -->
 <details>
-<summary>Click to expand</summary>
+<summary>EXAMPLES (click HERE to expand)</summary>
 	
 *	Investment Decision Making
 *	Online Public Sentiment Analysis
 *	Competitor Monitoring
-*	 Political Campaigns
+*	Political Campaigns
 </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
 
 ## Challenges to Web Scraping:
 ---
-*	Data Warehousing:  If the data warehousing infrastructure is not properly built then the searching, storing and exporting of this data will become a cumbersome task. Hence, for large-scale data extraction, there needs to be a perfect data warehousing system without any flaws and faults.
-*	Website Structure Changes: Every website periodically updates its user interface to improve its attractiveness and experience. This requires various structural changes too. Since the web scrapers are set up according to the code elements of the website at that time, they require changes too. So, they require changes weekly too to target the correct website for data scraping as incomplete information regarding the website structure will lead to improper scraping of data.
+*	`Data Warehousing:`  If the data warehousing infrastructure is not properly built then the searching, storing and exporting of this data will become a cumbersome task. Hence, for large-scale data extraction, there needs to be a perfect data warehousing system without any flaws and faults.
 
-*	Anti-Scraping Technologies: Some websites use anti-scraping technologies that thwart away any scraping attempt. They apply a dynamic coding algorithm to prevent any bot intervention and use the IP blocking mechanism. It requires a lot of time and money to work around such anti-scraping technologies.
+*	`Website Structure Changes:` Every website periodically updates its user interface to improve its attractiveness and experience. This requires various structural changes too. Since the web scrapers are set up according to the code elements of the website at that time, they require changes too. So, they require changes weekly too to target the correct website for data scraping as incomplete information regarding the website structure will lead to improper scraping of data.
 
-*	Quality of Data Extracted: Records that do not meet the quality of information required will affect the overall integrity of the data. Making sure that the Data Scraped meets the quality guidelines is a difficult task as it needs to be done in real-time.
+*	`Anti-Scraping Technologies:` Some websites use anti-scraping technologies that thwart away any scraping attempt. They apply a dynamic coding algorithm to prevent any bot intervention and use the IP blocking mechanism. It requires a lot of time and money to work around such anti-scraping technologies.
+
+*	`Quality of Data Extracted:` Records that do not meet the quality of information required will affect the overall integrity of the data. Making sure that the Data Scraped meets the quality guidelines is a difficult task as it needs to be done in real-time.
 
 
 ## Future of Web Scraping:

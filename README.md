@@ -15,7 +15,7 @@
 *  [Bibliography]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#bibliography) 
 
 
-## What is Web scraping?
+# What is Web scraping?
 ---
 *Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet.* <img align="right" src="https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg" alt="sturtured data" width="500" height="150">
 *	poorly structured data from websites --> into a structured format eg. spreedsheet      
@@ -24,21 +24,21 @@
     But Python is the best language because it is the easiest language to learn because of its syntax.
    
    
-## The basics of web scraping
+# The basics of web scraping
 ---
 It have 2  parts-The crawler (like a horse) ,The scraper (like a charoit)<br>
 The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
 <img align="right" src="https://www.scrapinghub.com/wp-content/uploads/2019/05/crawler.png" alt="sturtured data" width="200" height="150">	
-   #### The crawler 
+   ### The crawler 
    Also called “spider”                                                                                                                           
    is an artificial intelligence that browses the internet to index and search for content by following links and exploring.
    
-   #### The scraper<img align="right" src="https://www.scrapinghub.com/wp-content/uploads/2019/05/scraper.png" alt="sturtured data" width="200" height="100">
+   ### The scraper<img align="right" src="https://www.scrapinghub.com/wp-content/uploads/2019/05/scraper.png" alt="sturtured data" width="200" height="100">
    A web scraper is a specialized tool designed to accurately and quickly extract data from a web page.
 
 
 
-## Can you scrape from all the websites?
+# Can you scrape from all the websites?
 ---
 Scraping makes the website traffic to spike and may cause breakdown of the website server. Thus, not all of the websites allow people to scrape.
 How do you know which websites are allowed or not?
@@ -54,7 +54,7 @@ You can see that<br>
 *	On first row Google specifies the rules for all of the user-agents but website may give certain user-agent special permission so you may want to refer to information there.
 
 
-## Techniques of Web Scraping:
+# Techniques of Web Scraping:
 ---
  There are two ways of extracting data from websites, the Manual extraction technique, and the automated extraction technique.<br>
 `1. Manual Extraction Techniques:`  Manually copy-pasting the site content comes under this technique. Though tedious, time taking and repetitive it is an effective way to scrap data from the sites having good anti-scraping measures like bot detection.
@@ -67,7 +67,7 @@ You can see that<br>
 
 * **Web Scraping Software:**  Nowadays, many web scraping tools are available or are custom build on users need to extract required desiring information from millions of websites.
 
-## How do we do web scraping?
+# How do we do web scraping?
 ---
 There are 2 different approaches for web scraping depending on how does website structure their contents.<br> 
 
@@ -94,7 +94,7 @@ There are 2 different approaches for web scraping depending on how does website 
  **Pros and Cons for this approach:** It is definitely a preferred approach if you can find the API request. The data you receive will be more structured and stable. This is    because compared to website front end, it is less likely for the company to change its backend API. However, it is a bit more complicated than the first approach especially if  authentication or token is required.
 
 
-## Different tools and library for web scraping
+# Different tools and library for web scraping
 ---
 <ins> **Tool for Web Scraping:** </ins> 
 
@@ -113,7 +113,7 @@ Web Scraping tools are specifically developed for extracting data from the inter
 You can either use Requests + Beautiful Soup or Selenium to do web scraping. Selenium is preferred if you need to interact with website(JavaScript events) and if not I will prefer Requests + Beautiful Soup because its faster and easier.<br>
 
 
-## Uses of Web Scraping
+# Uses of Web Scraping
 ---
   ### Price Monitoring
 Revolutionize day-to-day business with web scraped product data and dramatically increase your company’s competitiveness. From automatic pricing solutions to profitable investment insights, this data moves mountains.
@@ -197,7 +197,7 @@ Modern media can create outstanding value or an existential threat to your busin
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
 
 
-## Challenges to Web Scraping:
+# Challenges to Web Scraping:
 ---
 *	`Data Warehousing:`  If the data warehousing infrastructure is not properly built then the searching, storing and exporting of this data will become a cumbersome task. Hence, for large-scale data extraction, there needs to be a perfect data warehousing system without any flaws and faults.
 
@@ -208,14 +208,14 @@ Modern media can create outstanding value or an existential threat to your busin
 *	`Quality of Data Extracted:` Records that do not meet the quality of information required will affect the overall integrity of the data. Making sure that the Data Scraped meets the quality guidelines is a difficult task as it needs to be done in real-time.
 
 
-## Future of Web Scraping:
+# Future of Web Scraping:
 ---
  As there are some challenges and opportunities for data scraping. Since we are on the verge of webtransformation, data-scraping in combination with big data can provide the company’s market intelligence and help them identify critical trends and patterns and identify the best opportunities and solutions. Hence, it won’t be wrong to say that Webscraping can be upgraded to the better soon.
 
 
 
 
-## Bibliography
+# Bibliography
 ---
 *	www.scrapinghub.com
 *	www.parsehub.com

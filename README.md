@@ -28,13 +28,14 @@
 ---
 It have 2  parts-The crawler (like a horse) ,The scraper (like a charoit)<br>
 The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
-	
-   #### The crawler
+<img align="right" src="https://www.scrapinghub.com/wp-content/uploads/2019/05/crawler.png" alt="sturtured data" width="200" height="150">	
+   #### The crawler 
    Also called “spider”                                                                                                                           
    is an artificial intelligence that browses the internet to index and search for content by following links and exploring.
    
-   #### The scraper
+   #### The scraper<img align="right" src="https://www.scrapinghub.com/wp-content/uploads/2019/05/scraper.png" alt="sturtured data" width="200" height="100">
    A web scraper is a specialized tool designed to accurately and quickly extract data from a web page.
+
 
 
 ## Can you scrape from all the websites?

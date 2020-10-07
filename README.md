@@ -1,14 +1,5 @@
 # Web Scraping
-* [what is web scraping](https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)
-* The basics of web scraping
-* Can you scrape from all the websites?
-* Techniques of Web Scraping:
-* How do we do web scraping?
-* Different tools and library for web scraping
-* Uses of Web Scraping
-* Challenges to Web Scraping
-* Future of  Web Scraping:
-* Bibliography
+*  [What is Web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#what-is-web-scraping)                                                          *  [The basics of web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#the-basics-of-web-scraping)                                               *  [Can you scrape from all the websites?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#can-you-scrape-from-all-the-websites)                         *  [Techniques of Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#techniques-of-web-scraping)                                               *  [How do we do web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#how-do-we-do-web-scraping)                                               *  [Different tools and library for web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#different-tools-and-library-for-web-scraping)           *  [Uses of Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#uses-of-web-scraping)                                                           *  [Challenges to Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#challenges-to-web-scraping)                                               *  [Future of  Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#future-of-web-scraping)                                                      *  [Bibliography]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#bibliography)                                                                                                                 
 
 
 ## What is Web scraping?
@@ -26,16 +17,9 @@ The crawler leads the scraper, as if by the hand, through the internet, where it
    #### The crawler (like a horse) 
    Also called “spider”                                                                                                                           
    is an artificial intelligence that browses the internet to index and search for content by following links and exploring.
+   
    #### The scraper (like a charoit)
    A web scraper is a specialized tool designed to accurately and quickly extract data from a web page.
-
-
-The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
-
-
-
-The scraper  
-A web scraper is a specialized tool designed to accurately and quickly extract data from a web page.
 
 
 ## Can you scrape from all the websites?
@@ -90,11 +74,11 @@ There are 2 different approaches for web scraping depending on how does website 
 #### Tool for Web Scraping: 
 ---
 Web Scraping tools are specifically developed for extracting data from the internet. Some of the most popular Web Scraping tools are:
-*	Import.io
-*	Webhose.io
-*	Dexi.io
-*	Scrapinghub
-*	Parsehub
+*	[Import.io](https://www.import.io/)
+*	[Webhose.io](https://webhose.io/)
+*	[Dexi.io](https://www.dexi.io/)
+)*	[Scrapinghub](https://www.scrapinghub.com/)
+*	[Parsehub](https://www.parsehub.com/)
 
 The most commonly used library for web scraping in Python are :<br>
 ---

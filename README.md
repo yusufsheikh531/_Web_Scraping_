@@ -17,7 +17,7 @@
 
 ## What is Web scraping?
 ---
-Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet. <img align="right" src="https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg" alt="sturtured data" width="500" height="150">
+*Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet.* <img align="right" src="https://www.edureka.co/blog/wp-content/uploads/2018/11/Untitled-1.jpg" alt="sturtured data" width="500" height="150">
 *	poorly structured data from websites --> into a structured format eg. spreedsheet      
 *	 help you track changes to data online.
 *	There are many languages used for web scraping example node.js, c, c++, php etc.<br>

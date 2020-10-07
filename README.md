@@ -1,25 +1,26 @@
-Web Scraping
-• What is Web scraping?
-•	The basics of web scraping
-•	Can you scrape from all the websites?
-•	Techniques of Web Scraping:
-•	How do we do web scraping?
-•	Different tools and library for web scraping
-•	Uses of Web Scraping
-•	Challenges to Web Scraping
-•	Future of  Web Scraping:
-•	Bibliography
+# Web Scraping
+* What is Web scraping?
+*	The basics of web scraping
+* Can you scrape from all the websites?
+* Techniques of Web Scraping:
+* How do we do web scraping?
+* Different tools and library for web scraping
+* Uses of Web Scraping
+* Challenges to Web Scraping
+* Future of  Web Scraping:
+* Bibliography
 
-What is Web scraping?
-Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet
-•	poorly structured data from websites into a structured format eg. spreedsheet
-•	 help you track changes to data online.
-•	There are many languages used for web scraping example node.js, c, c++, php etc.
-But Python is the best language because it is the easiest language to          learn because of its syntax.
-The basics of web scraping
+## What is Web scraping?
+Web scraping refers to the extraction of data from a website. This information is collected and then exported into a  format that is more useful for the user such as .csv file or spreadsheet.
+*	poorly structured data from websites into a structured format eg. spreedsheet
+*	 help you track changes to data online.
+*	There are many languages used for web scraping example node.js, c, c++, php etc.
+    But Python is the best language because it is the easiest language to          learn because of its syntax.
+    
+## The basics of web scraping
 It have 2  parts:
-	The crawler (like a horse)                 
-	The scraper (like a charoit)  
+*	The crawler (like a horse)                 
+*	The scraper (like a charoit)  
 The crawler leads the scraper, as if by the hand, through the internet, where it extracts the data requested.
 
 The crawler

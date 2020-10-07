@@ -4,6 +4,7 @@
 *  [Can you scrape from all the websites?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#can-you-scrape-from-all-the-websites) 
 *  [Techniques of Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#techniques-of-web-scraping) 
 *  [How do we do web scraping?]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#how-do-we-do-web-scraping)
+*  [Uses of Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#uses-of-web-scraping)                                                                       
 *  [Different tools and library for web scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#different-tools-and-library-for-web-scraping)
 *  [Challenges to Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#challenges-to-web-scraping)
 *  [Future of  Web Scraping]( https://github.com/yusufsheikh531/_Web_Scraping_/blob/worked/README.md#future-of-web-scraping)

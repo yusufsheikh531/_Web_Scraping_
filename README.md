@@ -1,5 +1,7 @@
-# Web Scraping
-<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
+# WEB SCRAPING
+
+# Content
+<!--⛔️ magic start -->
 <details>
 <summary>Click to expand</summary>
 	
